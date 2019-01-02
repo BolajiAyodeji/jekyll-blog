@@ -1,2 +1,1 @@
-# jekyll-blog
-Simple Jekyll Blog
+# Simple Jekyll Blog
